@@ -45,8 +45,7 @@ public class JornadaTrabalhoController {
 		return jornadaService.updateJornada(jornadaTrabalho);
 	}
 	
-	@SuppressWarnings("unchecked")
-	@DeleteMapping
+	@DeleteMapping("/{idJornada}")
 	public ResponseEntity<JornadaTrabalho> deleteById(@PathVariable("idJornada") Long idJornada){
 		try {
 			jornadaService.deleteJornada(idJornada);
