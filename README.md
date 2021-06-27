@@ -1,6 +1,8 @@
 # API Ponto de Acesso :computer:
 Sistema de Controle de Ponto de Acesso Realizado no Bootcamp Satander.
 
+OBS: Ainda se encontra em estagio inicial, porem futuramente pretendo adicionar o restante das funcionalidades. :blush:
+
 # TECNOLOGIAS USADAS
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
